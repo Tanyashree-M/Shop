@@ -1,0 +1,16 @@
+table{
+    margin:auto;
+    background-color:rgb(251, 220, 146);
+}
+
+td{
+    padding:20px;
+}
+
+tr{
+    padding: 20px;
+}
+
+th{
+    padding: 20px;
+}
